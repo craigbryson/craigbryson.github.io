@@ -6,10 +6,10 @@ baseurl:            "/"
 url:                "https://craigbryson.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
-linkedin_username:
+twitter_username:   
+github_username:    
+facebook_username:  
+linkedin_username: craig-bryson-95701118
 
 # Add your google-analytics ID here to activate google analytics
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
