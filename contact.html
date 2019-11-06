@@ -11,16 +11,20 @@ form: true
   action="https://formspree.io/mvoopqqn"
   method="POST"
 >
-  <label>
-    Your email:
+      <div class="form-group floating-label-form-group controls">
+      <label>Your e-mail</label>
     <input type="text" name="_replyto">
   </label>
+  </div>
+<div class="control-group">
+    <div class="form-group floating-label-form-group controls">
   <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
+  </div>
 
-  <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+
+  <button type="submit" class="tn btn-primary">Send</button>
 </form>
